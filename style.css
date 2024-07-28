@@ -66,6 +66,9 @@ td {
   border-collapse: collapse;
   padding: 20px;
 }
+.latest_news h2:hover {
+  color: #f7c605;
+}
 @media screen and (max-width: 576px) {
   th,
   td {
