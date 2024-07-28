@@ -69,6 +69,21 @@ td {
 .latest_news h2:hover {
   color: #f7c605;
 }
+footer h2 {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+footer a {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  display: block;
+  margin-bottom: 15px;
+}
+footer a:hover {
+  color: #f7c605;
+}
 @media screen and (max-width: 576px) {
   th,
   td {
