@@ -1,6 +1,9 @@
 body {
   font-family: "Rubik", sans-serif;
 }
+* {
+  box-sizing: border-box;
+}
 ::selection {
   background: #f7c605;
   color: #fff;
