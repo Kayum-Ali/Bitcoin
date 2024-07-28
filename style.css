@@ -1,0 +1,38 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+::selection {
+  background: #f7c605;
+  color: #fff;
+  text-shadow: none;
+}
+header {
+  background-image: url("images/header-bg.jpg");
+  position: relative;
+}
+ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+ul li a:hover {
+  color: #f7c605;
+}
+.overlay {
+  background-color: rgba(73, 49, 43, 0.559);
+}
+marquee h2 {
+  font-size: 40px;
+
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+marquee p {
+  font-size: 20px;
+
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.play {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
