@@ -58,3 +58,18 @@ marquee p {
   padding: 20px;
   border-radius: 50%;
 }
+/* bar chart css */
+
+th,
+td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  padding: 20px;
+}
+@media screen and (max-width: 576px) {
+  th,
+  td {
+    font-size: 14px;
+    padding: 5px;
+  }
+}
