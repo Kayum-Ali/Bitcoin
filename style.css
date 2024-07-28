@@ -36,3 +36,22 @@ marquee p {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* currency css start */
+.video-container {
+  background-image: url("images/images.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* height: 300px; */
+  /* padding: 20px 30px; */
+  border-radius: 30px;
+}
+.overla {
+  background-color: rgba(73, 49, 43, 0.559);
+  border-radius: 30px;
+}
+/* Choose Wallet css start */
+.wallet img {
+  padding: 20px;
+  border-radius: 50%;
+}
