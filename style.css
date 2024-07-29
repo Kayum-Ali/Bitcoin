@@ -39,6 +39,9 @@ marquee p {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+/* .youtube_img {
+  background-image: url("images/");
+} */
 
 /* currency css start */
 .video-container {
